@@ -1,0 +1,6 @@
+framework module ZXLRNExample {
+  umbrella header "ZXLRNExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
